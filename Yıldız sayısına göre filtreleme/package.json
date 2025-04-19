@@ -1,0 +1,16 @@
+{
+  "name": "yildiz-filtreleme",
+  "version": "1.0.0",
+  "description": "Otel arama sonuçlarını yıldız sayısına göre filtreleme bileşeni",
+  "main": "YildizFiltreleme.js",
+  "author": "Kaan Yıldız",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.0",
+    "@mui/material": "^5.14.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+} 
