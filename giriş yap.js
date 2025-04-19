@@ -146,7 +146,7 @@ const styles = `
 `;
 
 // Giriş yapma bileşeni
-const LoginComponent = () => {
+const GirisYapComponent = () => {
   const navigate = useNavigate();
   // const { login } = useContext(AuthContext);
 
@@ -417,4 +417,4 @@ const LoginComponent = () => {
   );
 };
 
-export default LoginComponent; 
+export default GirisYapComponent; 
